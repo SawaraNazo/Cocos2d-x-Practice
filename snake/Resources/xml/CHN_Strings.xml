@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dict>
+  <key>title</key>
+  <string>贪吃蛇</string>
+  <key>startGame</key>
+  <string>开始游戏</string>
+  <key>exitGame</key>
+  <string>退出</string>
+</dict>
