@@ -1,2 +1,2 @@
 # Cocos2d-x-Practice
-Some Practises based on Cocos2d-x GameEngine
+一些基于Cocos2d-x引擎的小练习。
