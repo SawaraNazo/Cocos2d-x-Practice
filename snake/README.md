@@ -35,4 +35,4 @@ The Game Snake（贪吃蛇 In Chinese）
 **The best way to learn is to Practise.**  
 
 ## 下步计划  
-用一天的时间，制作出“俄罗斯方块”。
+利用Cocos2d-x引擎制作“俄罗斯方块”游戏。
